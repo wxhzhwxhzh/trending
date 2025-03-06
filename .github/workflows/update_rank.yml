@@ -1,0 +1,53 @@
+name: Update Trending Rank
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天UTC时间00:00运行
+  # 新增手动触发配置
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: '触发原因（可选）'
+        required: false
+        default: '手动更新'  
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install requests beautifulsoup4
+
+    - name: Get trending project
+      id: get_name
+      run: |
+        PROJECT_NAME=$(python spider.py)
+        echo "name=$PROJECT_NAME" >> $GITHUB_OUTPUT
+
+    - name: Update rank.txt
+      run: |
+        if ! grep -q "${{ steps.get_name.outputs.name }}" rank.txt; then
+          echo "${{ steps.get_name.outputs.name }}" >> rank.txt
+          echo "CHANGED=true" >> $GITHUB_ENV
+        else
+          echo "CHANGED=false" >> $GITHUB_ENV
+        fi
+
+    - name: Commit and push
+      if: env.CHANGED == 'true'
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add rank.txt
+        git commit -m "📌 Add new trending project: ${{ steps.get_name.outputs.name }}"
+        git push
