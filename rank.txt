@@ -1,2 +1,3 @@
 
 virattt/ai-hedge-fund
+thalissonvs/pydoll
