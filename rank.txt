@@ -1,3 +1,4 @@
 
 virattt/ai-hedge-fund
 thalissonvs/pydoll
+camel-ai/camel
