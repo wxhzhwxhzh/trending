@@ -3,3 +3,4 @@ virattt/ai-hedge-fund
 thalissonvs/pydoll
 camel-ai/camel
 freeCodeCamp/freeCodeCamp
+johnbean393/Sidekick
