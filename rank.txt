@@ -4,3 +4,4 @@ thalissonvs/pydoll
 camel-ai/camel
 freeCodeCamp/freeCodeCamp
 johnbean393/Sidekick
+xpipe-io/xpipe
