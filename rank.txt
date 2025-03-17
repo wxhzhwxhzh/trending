@@ -6,3 +6,4 @@ freeCodeCamp/freeCodeCamp
 johnbean393/Sidekick
 xpipe-io/xpipe
 hpcaitech/Open-Sora
+glanceapp/glance
