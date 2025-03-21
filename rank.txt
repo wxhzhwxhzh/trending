@@ -8,3 +8,4 @@ xpipe-io/xpipe
 hpcaitech/Open-Sora
 glanceapp/glance
 microsoft/data-formulator
+SakanaAI/AI-Scientist
