@@ -10,3 +10,4 @@ glanceapp/glance
 microsoft/data-formulator
 SakanaAI/AI-Scientist
 OpenBB-finance/OpenBB
+ocrmypdf/OCRmyPDF
