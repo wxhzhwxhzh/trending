@@ -15,3 +15,4 @@ hacksider/Deep-Live-Cam
 joanrod/star-vector
 khoj-ai/khoj
 ourongxing/newsnow
+Shubhamsaboo/awesome-llm-apps
