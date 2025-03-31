@@ -16,3 +16,4 @@ joanrod/star-vector
 khoj-ai/khoj
 ourongxing/newsnow
 Shubhamsaboo/awesome-llm-apps
+punkpeye/awesome-mcp-servers
