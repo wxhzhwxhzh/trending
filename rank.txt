@@ -17,3 +17,4 @@ khoj-ai/khoj
 ourongxing/newsnow
 Shubhamsaboo/awesome-llm-apps
 punkpeye/awesome-mcp-servers
+ahmedkhaleel2004/gitdiagram
