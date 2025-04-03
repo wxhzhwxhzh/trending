@@ -19,3 +19,4 @@ Shubhamsaboo/awesome-llm-apps
 punkpeye/awesome-mcp-servers
 ahmedkhaleel2004/gitdiagram
 th-ch/youtube-music
+nvm-sh/nvm
