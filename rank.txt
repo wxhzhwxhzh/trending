@@ -23,3 +23,4 @@ nvm-sh/nvm
 nuejs/nue
 meta-llama/llama-models
 microsoft/markitdown
+girafe-ai/ml-course
