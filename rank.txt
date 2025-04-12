@@ -24,3 +24,4 @@ nuejs/nue
 meta-llama/llama-models
 microsoft/markitdown
 girafe-ai/ml-course
+jiji262/douyin-downloader
