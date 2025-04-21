@@ -28,3 +28,4 @@ jiji262/douyin-downloader
 yeongpin/cursor-free-vip
 CVEProject/cvelistV5
 Anduin2017/HowToCook
+microsoft/BitNet
