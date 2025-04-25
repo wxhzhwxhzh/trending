@@ -29,3 +29,4 @@ yeongpin/cursor-free-vip
 CVEProject/cvelistV5
 Anduin2017/HowToCook
 microsoft/BitNet
+kortix-ai/suna
