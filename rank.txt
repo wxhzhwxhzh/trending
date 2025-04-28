@@ -30,3 +30,4 @@ CVEProject/cvelistV5
 Anduin2017/HowToCook
 microsoft/BitNet
 kortix-ai/suna
+getzep/graphiti
