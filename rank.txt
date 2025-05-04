@@ -31,3 +31,4 @@ Anduin2017/HowToCook
 microsoft/BitNet
 kortix-ai/suna
 getzep/graphiti
+aipotheosis-labs/aci
