@@ -32,3 +32,4 @@ microsoft/BitNet
 kortix-ai/suna
 getzep/graphiti
 aipotheosis-labs/aci
+GoogleCloudPlatform/kubectl-ai
