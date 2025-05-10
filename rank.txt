@@ -33,3 +33,4 @@ kortix-ai/suna
 getzep/graphiti
 aipotheosis-labs/aci
 GoogleCloudPlatform/kubectl-ai
+longbridge/gpui-component
