@@ -36,3 +36,4 @@ GoogleCloudPlatform/kubectl-ai
 longbridge/gpui-component
 harry0703/MoneyPrinterTurbo
 xming521/WeClone
+TapXWorld/ChinaTextbook
