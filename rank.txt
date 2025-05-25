@@ -41,3 +41,4 @@ public-apis/public-apis
 microsoft/WSL
 All-Hands-AI/OpenHands
 microsoft/qlib
+mindsdb/mindsdb
