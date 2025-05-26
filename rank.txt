@@ -42,3 +42,4 @@ microsoft/WSL
 All-Hands-AI/OpenHands
 microsoft/qlib
 mindsdb/mindsdb
+Fosowl/agenticSeek
