@@ -43,3 +43,4 @@ All-Hands-AI/OpenHands
 microsoft/qlib
 mindsdb/mindsdb
 Fosowl/agenticSeek
+anthropics/prompt-eng-interactive-tutorial
