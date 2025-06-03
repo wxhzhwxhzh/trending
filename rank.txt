@@ -44,3 +44,4 @@ microsoft/qlib
 mindsdb/mindsdb
 Fosowl/agenticSeek
 anthropics/prompt-eng-interactive-tutorial
+onlook-dev/onlook
