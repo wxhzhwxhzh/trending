@@ -46,3 +46,4 @@ Fosowl/agenticSeek
 anthropics/prompt-eng-interactive-tutorial
 onlook-dev/onlook
 frdel/agent-zero
+netbirdio/netbird
