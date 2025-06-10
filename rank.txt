@@ -49,3 +49,4 @@ frdel/agent-zero
 netbirdio/netbird
 topoteretes/cognee
 tensorzero/tensorzero
+alphacep/vosk-api
