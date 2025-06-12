@@ -51,3 +51,4 @@ topoteretes/cognee
 tensorzero/tensorzero
 alphacep/vosk-api
 jwohlwend/boltz
+sindresorhus/awesome
