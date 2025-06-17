@@ -52,3 +52,4 @@ tensorzero/tensorzero
 alphacep/vosk-api
 jwohlwend/boltz
 sindresorhus/awesome
+microsoft/fluentui-system-icons
