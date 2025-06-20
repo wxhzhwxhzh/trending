@@ -54,3 +54,4 @@ jwohlwend/boltz
 sindresorhus/awesome
 microsoft/fluentui-system-icons
 automatisch/automatisch
+DataExpert-io/data-engineer-handbook
