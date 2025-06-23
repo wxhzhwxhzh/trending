@@ -56,3 +56,4 @@ microsoft/fluentui-system-icons
 automatisch/automatisch
 DataExpert-io/data-engineer-handbook
 typst/typst
+rasbt/LLMs-from-scratch
