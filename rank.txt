@@ -59,3 +59,4 @@ typst/typst
 rasbt/LLMs-from-scratch
 microsoft/edit
 DrKLO/Telegram
+DioxusLabs/dioxus
