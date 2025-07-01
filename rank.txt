@@ -62,3 +62,4 @@ DrKLO/Telegram
 DioxusLabs/dioxus
 coleam00/ottomator-agents
 twentyhq/twenty
+GraphiteEditor/Graphite
