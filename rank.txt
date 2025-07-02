@@ -63,3 +63,4 @@ DioxusLabs/dioxus
 coleam00/ottomator-agents
 twentyhq/twenty
 GraphiteEditor/Graphite
+microsoft/generative-ai-for-beginners
