@@ -65,3 +65,4 @@ twentyhq/twenty
 GraphiteEditor/Graphite
 microsoft/generative-ai-for-beginners
 NanmiCoder/MediaCrawler
+rustfs/rustfs
