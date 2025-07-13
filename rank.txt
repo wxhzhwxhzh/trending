@@ -70,3 +70,4 @@ humanlayer/12-factor-agents
 googleapis/genai-toolbox
 Alibaba-NLP/WebAgent
 protocolbuffers/protobuf
+snap-stanford/Biomni
