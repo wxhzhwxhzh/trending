@@ -71,3 +71,4 @@ googleapis/genai-toolbox
 Alibaba-NLP/WebAgent
 protocolbuffers/protobuf
 snap-stanford/Biomni
+anthropics/claude-code
