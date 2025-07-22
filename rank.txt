@@ -74,3 +74,4 @@ snap-stanford/Biomni
 anthropics/claude-code
 hyprwm/Hyprland
 srbhr/Resume-Matcher
+maybe-finance/maybe
