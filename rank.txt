@@ -76,3 +76,4 @@ hyprwm/Hyprland
 srbhr/Resume-Matcher
 maybe-finance/maybe
 QwenLM/Qwen3-Coder
+frappe/hrms
