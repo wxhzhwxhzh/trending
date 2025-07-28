@@ -77,3 +77,4 @@ srbhr/Resume-Matcher
 maybe-finance/maybe
 QwenLM/Qwen3-Coder
 frappe/hrms
+Genesis-Embodied-AI/Genesis
