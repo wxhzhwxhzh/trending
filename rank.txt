@@ -79,3 +79,4 @@ QwenLM/Qwen3-Coder
 frappe/hrms
 Genesis-Embodied-AI/Genesis
 9001/copyparty
+kijai/ComfyUI-WanVideoWrapper
