@@ -81,3 +81,4 @@ Genesis-Embodied-AI/Genesis
 9001/copyparty
 kijai/ComfyUI-WanVideoWrapper
 OpenPipe/ART
+dyad-sh/dyad
