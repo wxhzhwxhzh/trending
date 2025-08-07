@@ -82,3 +82,4 @@ Genesis-Embodied-AI/Genesis
 kijai/ComfyUI-WanVideoWrapper
 OpenPipe/ART
 dyad-sh/dyad
+nautechsystems/nautilus_trader
