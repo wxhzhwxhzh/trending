@@ -83,3 +83,4 @@ kijai/ComfyUI-WanVideoWrapper
 OpenPipe/ART
 dyad-sh/dyad
 nautechsystems/nautilus_trader
+openai/codex
