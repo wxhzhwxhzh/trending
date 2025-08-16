@@ -87,3 +87,4 @@ openai/codex
 umami-software/umami
 nomic-ai/gpt4all
 ubicloud/ubicloud
+tadata-org/fastapi_mcp
