@@ -89,3 +89,4 @@ nomic-ai/gpt4all
 ubicloud/ubicloud
 tadata-org/fastapi_mcp
 coleam00/Archon
+emcie-co/parlant
