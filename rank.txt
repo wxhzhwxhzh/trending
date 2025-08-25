@@ -92,3 +92,4 @@ coleam00/Archon
 emcie-co/parlant
 simstudioai/sim
 moeru-ai/airi
+winapps-org/winapps
