@@ -99,3 +99,4 @@ QuentinFuxa/WhisperLiveKit
 juspay/hyperswitch
 dockur/windows
 pedroslopez/whatsapp-web.js
+bytebot-ai/bytebot
