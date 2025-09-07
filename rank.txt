@@ -100,3 +100,4 @@ juspay/hyperswitch
 dockur/windows
 pedroslopez/whatsapp-web.js
 bytebot-ai/bytebot
+zama-ai/fhevm
