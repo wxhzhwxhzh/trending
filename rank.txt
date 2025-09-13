@@ -102,3 +102,4 @@ pedroslopez/whatsapp-web.js
 bytebot-ai/bytebot
 zama-ai/fhevm
 Physical-Intelligence/openpi
+trueadm/ripple
