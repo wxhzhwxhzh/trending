@@ -103,3 +103,4 @@ bytebot-ai/bytebot
 zama-ai/fhevm
 Physical-Intelligence/openpi
 trueadm/ripple
+PowerShell/PowerShell
