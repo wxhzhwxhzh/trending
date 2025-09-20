@@ -105,3 +105,4 @@ Physical-Intelligence/openpi
 trueadm/ripple
 PowerShell/PowerShell
 category-labs/monad
+Alibaba-NLP/DeepResearch
