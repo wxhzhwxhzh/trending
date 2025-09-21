@@ -106,3 +106,4 @@ trueadm/ripple
 PowerShell/PowerShell
 category-labs/monad
 Alibaba-NLP/DeepResearch
+Gar-b-age/CookLikeHOC
