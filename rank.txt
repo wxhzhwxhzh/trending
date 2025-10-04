@@ -113,3 +113,4 @@ ZuodaoTech/everyone-can-use-english
 humanlayer/humanlayer
 commaai/openpilot
 nextcloud/server
+hsliuping/TradingAgents-CN
