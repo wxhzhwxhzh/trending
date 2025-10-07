@@ -114,3 +114,4 @@ humanlayer/humanlayer
 commaai/openpilot
 nextcloud/server
 hsliuping/TradingAgents-CN
+Infisical/infisical
