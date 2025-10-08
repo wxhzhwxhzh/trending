@@ -115,3 +115,4 @@ commaai/openpilot
 nextcloud/server
 hsliuping/TradingAgents-CN
 Infisical/infisical
+Stremio/stremio-web
