@@ -118,3 +118,4 @@ Infisical/infisical
 Stremio/stremio-web
 browserbase/stagehand
 jingyaogong/minimind
+anthropics/claude-cookbooks
