@@ -122,3 +122,4 @@ anthropics/claude-cookbooks
 mountain-loop/yaak
 minio/minio
 LadybirdBrowser/ladybird
+toeverything/AFFiNE
