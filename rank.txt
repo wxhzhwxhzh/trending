@@ -123,3 +123,4 @@ mountain-loop/yaak
 minio/minio
 LadybirdBrowser/ladybird
 toeverything/AFFiNE
+smartcontractkit/chainlink
