@@ -125,3 +125,4 @@ LadybirdBrowser/ladybird
 toeverything/AFFiNE
 smartcontractkit/chainlink
 helm/helm
+get-convex/chef
