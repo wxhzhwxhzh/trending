@@ -129,3 +129,4 @@ get-convex/chef
 666ghj/BettaFish
 prometheus/alertmanager
 usestrix/strix
+google/adk-go
