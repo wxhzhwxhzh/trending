@@ -130,3 +130,4 @@ get-convex/chef
 prometheus/alertmanager
 usestrix/strix
 google/adk-go
+sansan0/TrendRadar
