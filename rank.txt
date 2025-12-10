@@ -133,3 +133,4 @@ google/adk-go
 sansan0/TrendRadar
 basecamp/fizzy
 microsoft/VibeVoice
+KaijuEngine/kaiju
