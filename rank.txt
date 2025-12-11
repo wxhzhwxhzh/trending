@@ -134,3 +134,4 @@ sansan0/TrendRadar
 basecamp/fizzy
 microsoft/VibeVoice
 KaijuEngine/kaiju
+thedotmack/claude-mem
