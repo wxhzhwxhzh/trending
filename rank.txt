@@ -137,3 +137,4 @@ KaijuEngine/kaiju
 thedotmack/claude-mem
 CopilotKit/CopilotKit
 C4illin/ConvertX
+jaywcjlove/awesome-mac
