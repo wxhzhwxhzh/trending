@@ -138,3 +138,4 @@ thedotmack/claude-mem
 CopilotKit/CopilotKit
 C4illin/ConvertX
 jaywcjlove/awesome-mac
+exo-explore/exo
