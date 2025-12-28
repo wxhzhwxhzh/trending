@@ -140,3 +140,4 @@ C4illin/ConvertX
 jaywcjlove/awesome-mac
 exo-explore/exo
 rendercv/rendercv
+TheAlgorithms/Python
