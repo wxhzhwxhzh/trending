@@ -141,3 +141,4 @@ jaywcjlove/awesome-mac
 exo-explore/exo
 rendercv/rendercv
 TheAlgorithms/Python
+Flowseal/zapret-discord-youtube
