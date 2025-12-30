@@ -142,3 +142,4 @@ exo-explore/exo
 rendercv/rendercv
 TheAlgorithms/Python
 Flowseal/zapret-discord-youtube
+QuantConnect/Lean
