@@ -143,3 +143,4 @@ rendercv/rendercv
 TheAlgorithms/Python
 Flowseal/zapret-discord-youtube
 QuantConnect/Lean
+BloopAI/vibe-kanban
