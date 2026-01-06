@@ -148,3 +148,4 @@ afkarxyz/SpotiFLAC
 awslabs/amazon-bedrock-agentcore-samples
 HQarroum/docker-android
 usememos/memos
+anomalyco/opencode
