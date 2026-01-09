@@ -149,3 +149,4 @@ awslabs/amazon-bedrock-agentcore-samples
 HQarroum/docker-android
 usememos/memos
 anomalyco/opencode
+ChromeDevTools/chrome-devtools-mcp
