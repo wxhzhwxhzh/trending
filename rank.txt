@@ -151,3 +151,4 @@ usememos/memos
 anomalyco/opencode
 ChromeDevTools/chrome-devtools-mcp
 obra/superpowers
+eigent-ai/eigent
