@@ -152,3 +152,4 @@ anomalyco/opencode
 ChromeDevTools/chrome-devtools-mcp
 obra/superpowers
 eigent-ai/eigent
+iOfficeAI/AionUi
