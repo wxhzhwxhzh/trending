@@ -155,3 +155,4 @@ eigent-ai/eigent
 iOfficeAI/AionUi
 OpenBMB/VoxCPM
 microsoft/agent-lightning
+tambo-ai/tambo
