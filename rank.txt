@@ -158,3 +158,4 @@ microsoft/agent-lightning
 tambo-ai/tambo
 remotion-dev/remotion
 Blaizzy/mlx-audio
+badlogic/pi-mono
