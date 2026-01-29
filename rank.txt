@@ -159,3 +159,4 @@ tambo-ai/tambo
 remotion-dev/remotion
 Blaizzy/mlx-audio
 badlogic/pi-mono
+moltbot/moltbot
