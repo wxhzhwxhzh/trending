@@ -166,3 +166,4 @@ bytedance/UI-TARS-desktop
 openai/skills
 KeygraphHQ/shannon
 google/langextract
+SynkraAI/aios-core
