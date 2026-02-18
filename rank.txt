@@ -168,3 +168,4 @@ KeygraphHQ/shannon
 google/langextract
 SynkraAI/aios-core
 alibaba/zvec
+p-e-w/heretic
