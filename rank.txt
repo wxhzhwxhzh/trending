@@ -174,3 +174,4 @@ huggingface/skills
 x1xhlol/system-prompts-and-models-of-ai-tools
 D4Vinci/Scrapling
 clockworklabs/SpacetimeDB
+ruvnet/wifi-densepose
