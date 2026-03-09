@@ -178,3 +178,4 @@ ruvnet/wifi-densepose
 ruvnet/RuView
 msitarzewski/agency-agents
 666ghj/MiroFish
+GoogleCloudPlatform/generative-ai
