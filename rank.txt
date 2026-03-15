@@ -179,3 +179,4 @@ ruvnet/RuView
 msitarzewski/agency-agents
 666ghj/MiroFish
 GoogleCloudPlatform/generative-ai
+volcengine/OpenViking
