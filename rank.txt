@@ -181,3 +181,4 @@ msitarzewski/agency-agents
 GoogleCloudPlatform/generative-ai
 volcengine/OpenViking
 lightpanda-io/browser
+jarrodwatts/claude-hud
