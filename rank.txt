@@ -183,3 +183,4 @@ volcengine/OpenViking
 lightpanda-io/browser
 jarrodwatts/claude-hud
 opendataloader-project/opendataloader-pdf
+FujiwaraChoki/MoneyPrinterV2
