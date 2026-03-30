@@ -186,3 +186,4 @@ opendataloader-project/opendataloader-pdf
 FujiwaraChoki/MoneyPrinterV2
 pascalorg/editor
 mvanhorn/last30days-skill
+luongnv89/claude-howto
