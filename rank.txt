@@ -188,3 +188,4 @@ pascalorg/editor
 mvanhorn/last30days-skill
 luongnv89/claude-howto
 siddharthvaddem/openscreen
+Yeachan-Heo/oh-my-codex
