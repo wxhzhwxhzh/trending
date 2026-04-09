@@ -192,3 +192,4 @@ Yeachan-Heo/oh-my-codex
 Blaizzy/mlx-vlm
 google-ai-edge/gallery
 abhigyanpatwari/GitNexus
+forrestchang/andrej-karpathy-skills
