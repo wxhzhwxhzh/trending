@@ -193,3 +193,4 @@ Blaizzy/mlx-vlm
 google-ai-edge/gallery
 abhigyanpatwari/GitNexus
 forrestchang/andrej-karpathy-skills
+NousResearch/hermes-agent
