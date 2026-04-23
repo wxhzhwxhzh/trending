@@ -197,3 +197,4 @@ NousResearch/hermes-agent
 EvoMap/evolver
 thunderbird/thunderbolt
 Fincept-Corporation/FinceptTerminal
+zilliztech/claude-context
