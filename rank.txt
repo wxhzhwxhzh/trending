@@ -198,3 +198,4 @@ EvoMap/evolver
 thunderbird/thunderbolt
 Fincept-Corporation/FinceptTerminal
 zilliztech/claude-context
+huggingface/ml-intern
