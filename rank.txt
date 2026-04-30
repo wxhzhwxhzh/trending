@@ -201,3 +201,4 @@ zilliztech/claude-context
 huggingface/ml-intern
 Alishahryar1/free-claude-code
 mattpocock/skills
+warpdotdev/warp
