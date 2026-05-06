@@ -204,3 +204,4 @@ mattpocock/skills
 warpdotdev/warp
 TauricResearch/TradingAgents
 ruvnet/ruflo
+Hmbown/DeepSeek-TUI
