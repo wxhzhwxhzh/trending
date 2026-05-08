@@ -205,3 +205,4 @@ warpdotdev/warp
 TauricResearch/TradingAgents
 ruvnet/ruflo
 Hmbown/DeepSeek-TUI
+anthropics/financial-services
