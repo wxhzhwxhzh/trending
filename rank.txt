@@ -207,3 +207,4 @@ ruvnet/ruflo
 Hmbown/DeepSeek-TUI
 anthropics/financial-services
 tinyhumansai/openhuman
+oven-sh/bun
