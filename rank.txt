@@ -212,3 +212,4 @@ colbymchenry/codegraph
 anthropics/claude-plugins-official
 Lum1104/Understand-Anything
 chopratejas/headroom
+addyosmani/agent-skills
