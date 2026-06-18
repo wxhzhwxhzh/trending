@@ -215,3 +215,4 @@ chopratejas/headroom
 addyosmani/agent-skills
 apple/container
 iptv-org/iptv
+DeusData/codebase-memory-mcp
