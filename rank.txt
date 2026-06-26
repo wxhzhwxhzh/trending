@@ -219,3 +219,4 @@ DeusData/codebase-memory-mcp
 google-research/timesfm
 palmier-io/palmier-pro
 calesthio/OpenMontage
+google-labs-code/design.md
