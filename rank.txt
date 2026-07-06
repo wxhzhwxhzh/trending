@@ -223,3 +223,4 @@ google-labs-code/design.md
 simplex-chat/simplex-chat
 hasaneyldrm/exercises-dataset
 openai/codex-plugin-cc
+Zackriya-Solutions/meetily
