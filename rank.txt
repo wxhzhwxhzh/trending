@@ -224,3 +224,4 @@ simplex-chat/simplex-chat
 hasaneyldrm/exercises-dataset
 openai/codex-plugin-cc
 Zackriya-Solutions/meetily
+MadsLorentzen/ai-job-search
