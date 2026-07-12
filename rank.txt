@@ -226,3 +226,4 @@ openai/codex-plugin-cc
 Zackriya-Solutions/meetily
 MadsLorentzen/ai-job-search
 wonderwhy-er/DesktopCommanderMCP
+catchorg/Catch2
