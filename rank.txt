@@ -227,3 +227,4 @@ Zackriya-Solutions/meetily
 MadsLorentzen/ai-job-search
 wonderwhy-er/DesktopCommanderMCP
 catchorg/Catch2
+Dicklesworthstone/destructive_command_guard
