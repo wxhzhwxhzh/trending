@@ -237,3 +237,4 @@ tirth8205/code-review-graph
 koala73/worldmonitor
 block/buzz
 permissionlesstech/bitchat
+opengeos/GeoLibre
