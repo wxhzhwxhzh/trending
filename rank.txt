@@ -238,3 +238,4 @@ koala73/worldmonitor
 block/buzz
 permissionlesstech/bitchat
 opengeos/GeoLibre
+huggingface/speech-to-speech
