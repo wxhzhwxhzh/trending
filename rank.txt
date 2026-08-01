@@ -239,3 +239,4 @@ block/buzz
 permissionlesstech/bitchat
 opengeos/GeoLibre
 huggingface/speech-to-speech
+zhaoxuya520/reverse-skill
