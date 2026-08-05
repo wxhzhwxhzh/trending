@@ -242,3 +242,4 @@ huggingface/speech-to-speech
 zhaoxuya520/reverse-skill
 microsoft/AI-For-Beginners
 lyogavin/airllm
+TencentCloud/TencentDB-Agent-Memory
