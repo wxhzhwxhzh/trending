@@ -244,3 +244,4 @@ microsoft/AI-For-Beginners
 lyogavin/airllm
 TencentCloud/TencentDB-Agent-Memory
 cloudflare/computer
+PrimeIntellect-ai/prime-agent
