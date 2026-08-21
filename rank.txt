@@ -248,3 +248,4 @@ PrimeIntellect-ai/prime-agent
 semantica-agi/semantica
 cathrynlavery/diagram-design
 cordiverse/cordis
+modular/modular
