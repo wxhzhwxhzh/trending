@@ -256,3 +256,4 @@ THU-MAIC/OpenMAIC
 Gitlawb/openclaude
 fmtlib/fmt
 affaan-m/ECC
+heygen-com/hyperframes
