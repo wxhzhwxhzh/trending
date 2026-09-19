@@ -260,3 +260,4 @@ heygen-com/hyperframes
 ayghri/i-have-adhd
 JustVugg/colibri
 alibaba/open-code-review
+cloudflare/security-audit-skill
