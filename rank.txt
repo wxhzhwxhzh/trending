@@ -263,3 +263,4 @@ alibaba/open-code-review
 cloudflare/security-audit-skill
 BuilderIO/agent-native
 rohitg00/ai-engineering-from-scratch
+paperclipai/paperclip
