@@ -264,3 +264,4 @@ cloudflare/security-audit-skill
 BuilderIO/agent-native
 rohitg00/ai-engineering-from-scratch
 paperclipai/paperclip
+debpalash/VoiceStudio
