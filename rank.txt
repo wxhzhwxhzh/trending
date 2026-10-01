@@ -265,3 +265,4 @@ BuilderIO/agent-native
 rohitg00/ai-engineering-from-scratch
 paperclipai/paperclip
 debpalash/VoiceStudio
+NVIDIA/OpenShell
