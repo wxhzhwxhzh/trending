@@ -274,3 +274,4 @@ boykopovar/AnyPS5
 php/php-src
 makecindy/cindy
 Nutlope/hallmark
+elayadesign/ai-design-skills
