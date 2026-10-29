@@ -275,3 +275,4 @@ php/php-src
 makecindy/cindy
 Nutlope/hallmark
 elayadesign/ai-design-skills
+JetBrains/thinkrail
