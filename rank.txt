@@ -277,3 +277,4 @@ Nutlope/hallmark
 elayadesign/ai-design-skills
 JetBrains/thinkrail
 HKUDS/DeepTutor
+vercel-labs/agent-desktop
