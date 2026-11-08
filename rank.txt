@@ -280,3 +280,4 @@ HKUDS/DeepTutor
 vercel-labs/agent-desktop
 NVIDIA/auto-ontology
 zed-industries/zed
+vercel-labs/agent-browser
