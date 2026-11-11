@@ -283,3 +283,4 @@ zed-industries/zed
 vercel-labs/agent-browser
 sherlock-project/sherlock
 anthropics/skills
+meta/astryx
