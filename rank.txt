@@ -289,3 +289,4 @@ backnotprop/plannotator
 dream-num/univer
 ag-ui-protocol/ag-ui
 elementalsouls/Claude-BugHunter
+cursor/plugins
